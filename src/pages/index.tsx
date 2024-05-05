@@ -10,7 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className="flex min-h-screen flex-col items-center justify-center bg-gradient-to-b from-[#205772] to-[#2879a1]">
-
+        <div className="w-3/4 h-3/4 border border-white"></div>
       </main>
     </>
   );
